@@ -9,7 +9,7 @@ namespace FirstAssembly
     {
         public static void Main()
         {
-            FistMethod();
+            FirstMethod();
             SecondAssembly.InSecondAssembly.OtherMethod();
         }
 
